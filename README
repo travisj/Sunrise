@@ -1,0 +1,5 @@
+Sunrise
+
+Sunrise is a Wordpress MU plugin that provides custom domains for your Wordpress MU blogs.
+
+To Install, put sunrise.php in WP_MU_INSTALL_DIR/wp-content/ and add the new table to the wordpress mu database. Then add your custom domain and blog_id as a record to the database.
